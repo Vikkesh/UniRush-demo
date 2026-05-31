@@ -6,6 +6,8 @@ This scalable web application offers broad mobile and desktop GUI support for ca
 ## Live Demo
 https://unirush-dv6o.onrender.com/
 
+## Video Demo
+![](https://github.com/Vikkesh/UniRush-demo/blob/main/Screen%20Recording%202026-05-31%20192957.gif)
 ## User Roles
 
 - **Customer (Students)**: Browse products, place orders, track deliveries, and manage their profiles
